@@ -1,4 +1,2 @@
-# linked-blog-starter-md
-These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
-
-tried
+# My obsidian note
+Nothing much here, but it's enough for you to learn
